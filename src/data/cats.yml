@@ -1,0 +1,9 @@
+- name: Darcy
+  type: Tortoise Shell
+  gender: f
+- name: Leo
+  type: Ginger Tom
+  gender: m
+- name: Boris
+  type: British Blue
+  gender: m
